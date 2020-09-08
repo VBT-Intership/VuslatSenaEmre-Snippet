@@ -1,22 +1,7 @@
 # VuslatSenaEmre-dartSnippet
 
 {
-	"stateless": {
-	  "prefix": "fless",
-	  "body": [
-		"import 'package:flutter/material.dart';",
-		"class $1 extends StatelessWidget {",
-		"\t@override",
-		"\tWidget build(BuildContext context) {",
-		"\t\treturn Container(",
-		"\t\t\t$2",
-		"\t\t);",
-		"\t}",
-		"}"
-	  ],
-	  "description": "Statles widget are available"
-	},
-  
+
 	"stateful": {
 	  "prefix": "ffull",
 	  "body": [
@@ -36,6 +21,21 @@
 		"} "
 	  ],
 	  "description": "Stateful widget are available"
+	},
+	"stateless": {
+	  "prefix": "fless",
+	  "body": [
+		"import 'package:flutter/material.dart';",
+		"class $1 extends StatelessWidget {",
+		"\t@override",
+		"\tWidget build(BuildContext context) {",
+		"\t\treturn Container(",
+		"\t\t\t$2",
+		"\t\t);",
+		"\t}",
+		"}"
+	  ],
+	  "description": "Statles widget are available"
 	},
 
 	"bubble sort": {
