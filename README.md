@@ -54,7 +54,7 @@
 						"arr[j+1] = temp;";
 					"}",
 			],
-			"description": "New array applying Buble Sort Algorithm"
+			"description": "New array applying Bubble Sort Algorithm"
 		}
 
 
